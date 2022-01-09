@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "gdc-task",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "description": "Thanks for applying to the Global Digital Corps!",
+  "main": "task.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
